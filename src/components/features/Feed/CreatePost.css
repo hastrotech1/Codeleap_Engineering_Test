@@ -1,0 +1,21 @@
+/* CreatePost styles */
+
+.create-post-container {
+  margin-bottom: 24px;
+}
+
+.create-post-header {
+  padding: 16px 24px;
+}
+
+.create-post-title {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.create-post-actions {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 12px;
+  margin-top: 4px;
+}
