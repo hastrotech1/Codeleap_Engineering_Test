@@ -85,13 +85,3 @@ Output is generated in the `dist/` folder.
 ```bash
 npm run preview
 ```
-
-## API
-
-All data is fetched from the public CodeLeap API:
-
-```
-https://dev.codeleap.co.uk/careers/
-```
-
-Supports `GET`, `POST`, `PATCH`, and `DELETE` operations. No authentication required.
