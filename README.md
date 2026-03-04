@@ -21,8 +21,7 @@ A social feed application built with React, TypeScript, and Vite as part of the 
 | Language   | TypeScript                                               |
 | Build tool | Vite 7                                                   |
 | Styling    | CSS (custom properties) + Tailwind CSS v4                |
-| Icons      | Lucide React                                             |
-| API        | [CodeLeap REST API](https://dev.codeleap.co.uk/careers/) |
+| Icons      | Lucide React                                             
 
 ## Project Structure
 
