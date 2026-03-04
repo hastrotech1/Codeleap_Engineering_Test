@@ -50,38 +50,3 @@ src/
 └── types/
     └── index.ts           # Shared TypeScript types
 ```
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js 18+
-- npm 9+
-
-### Install dependencies
-
-```bash
-npm install
-```
-
-### Run in development mode
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser.
-
-### Build for production
-
-```bash
-npm run build
-```
-
-Output is generated in the `dist/` folder.
-
-### Preview the production build
-
-```bash
-npm run preview
-```
